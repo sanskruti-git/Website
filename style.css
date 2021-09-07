@@ -1,0 +1,31 @@
+html,
+body {
+    font-family: 'Roboto Mono', monospace;
+    padding:  1px;
+    font-size: 18px;
+    background: #0c0c0c;
+    color: #7a7afa
+}
+
+h1,
+h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    color: #bbbaba;
+    font-size: 2em;
+}
+
+.padding{
+    padding-top: 200px;
+}
+
+.thick{
+    font-weight: 900;
+}
