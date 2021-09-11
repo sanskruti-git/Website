@@ -1,31 +1,32 @@
-html,
-body {
-    font-family: 'Roboto Mono', monospace;
-    padding:  1px;
-    font-size: 18px;
-    background: #0c0c0c;
-    color: #7a7afa
+html,body {
+ font-family: 'Roboto Mono', monospace;
+  padding: 1px;
+  font-size: 18px;
+  background: #090909;
+  color: #7a7afa;
+
+}
+.navbar-text{
+    color: #dad8d8;
 }
 
-h1,
-h2 {
-    font-weight: 200;
-    margin: 0.4em 0;
+h2,
+h3 {
+  font-weight: 200;
+  margin: 0.4em 0;
 }
-
-h1 {
-    font-size: 3.5em;
+h2 { font-size: 3.5em; }
+h3 {
+  color: #adadad;
+  font-size: 2em;
 }
-
-h2 {
-    color: #bbbaba;
-    font-size: 2em;
-}
-
 .padding{
-    padding-top: 200px;
+    padding-top: 75px;
 }
 
 .thick{
-    font-weight: 900;
+    font-weight: 1000;
+}
+.button {
+    border-radius: 20px ;
 }
